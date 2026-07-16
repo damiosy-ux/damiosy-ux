@@ -4,9 +4,9 @@ I design and build decision intelligence systems that transform fragmented, mult
 
 My work focuses on data ingestion, incremental synchronization, provider alignment, evidence fusion, pattern recognition, and feedback-driven learning. Rather than relying on isolated data sources, I build data pipelines that normalize, reconcile, and fuse heterogeneous datasets into a unified knowledge base for transparent, auditable, and explainable decision support.
 
-Although football analytics serves as the research domain, the underlying architecture is domain-agnostic. The platform is built around reusable engineering principles including data quality validation, entity resolution, incremental synchronization, evidence fusion, explainable evaluation, and continuous learning from verified outcomes.
+Although football analytics serves as the current research domain, the underlying architecture is domain-agnostic. The platform is built around reusable engineering principles including data quality validation, entity resolution, incremental synchronization, evidence fusion, explainable evaluation, and continuous learning from verified outcomes.
 
-My long-term focus is incremental intelligence: systems that continuously synchronize heterogeneous data sources, reconcile evidence, and evolve their knowledge through verified outcomes rather than periodic full rebuilds.
+My long-term focus is Incremental Intelligence: engineering systems that continuously synchronize heterogeneous data sources, reconcile evidence, and evolve their knowledge through verified outcomes rather than periodic full rebuilds.
 
 ## What I Work On
 
@@ -34,15 +34,15 @@ A modular decision intelligence platform that incrementally harvests, synchroniz
 
 The project demonstrates:
 
-- multi-source data ingestion architecture
+- multi-source data ingestion
 - incremental synchronization patterns
 - multi-source data fusion
 - dataset normalization and entity resolution
-- external rule configuration
+- configurable evaluation rules
 - explainable evaluation pipelines
 - pattern recognition and evidence fusion
 - synthetic sample datasets
-- Python testing
+- automated Python testing
 - GitHub Actions continuous integration
 
 Repository: https://github.com/damiosy-ux/decision-intelligence-platform
@@ -54,8 +54,11 @@ Repository: https://github.com/damiosy-ux/decision-intelligence-platform
 - Multi-source data fusion
 - Incremental ETL / ELT
 - State management
+- Entity resolution
+- Data normalization
 - Pattern recognition
 - Explainable analytics
+- Evidence fusion
 - Knowledge graphs
 - Automation
 - Research systems architecture
