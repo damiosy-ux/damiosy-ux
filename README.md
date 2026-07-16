@@ -20,6 +20,24 @@ My work focuses on data ingestion, synchronization, provider alignment, evidence
 
 Designing a modular decision intelligence platform that harvests, synchronizes, and fuses heterogeneous datasets into a unified knowledge base for explainable pattern recognition, evidence-based evaluation, and continuous learning.
 
+## Featured Project
+
+### Decision Intelligence Platform
+
+A modular data intelligence platform for multi-source ingestion, explainable pattern recognition, and feedback-driven evaluation.
+
+The project demonstrates:
+
+- data ingestion architecture
+- normalization workflows
+- external rule configuration
+- explainable evaluation
+- synthetic sample data
+- Python test coverage
+- GitHub Actions CI
+
+Repository: https://github.com/damiosy-ux/decision-intelligence-platform
+
 ## Technical Interests
 
 - Decision intelligence
