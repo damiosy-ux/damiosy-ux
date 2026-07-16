@@ -2,9 +2,11 @@
 
 I design and build decision intelligence systems that transform fragmented, multi-source datasets into structured, explainable, and continuously improving decision workflows.
 
-My work focuses on data ingestion, incremental synchronization, provider alignment, evidence fusion, pattern recognition, and feedback-driven learning. Rather than relying on isolated data sources, I build systems that integrate heterogeneous datasets into a unified knowledge model for transparent and auditable decision support.
+My work focuses on data ingestion, incremental synchronization, provider alignment, evidence fusion, pattern recognition, and feedback-driven learning. Rather than relying on isolated data sources, I design data pipelines that normalize, reconcile, and fuse heterogeneous datasets into a unified knowledge model for transparent and auditable decision support.
 
-Football analytics serves as the practical research domain for these systems, but the underlying architecture is domain-agnostic. The same engineering principles-data quality validation, entity resolution, evidence aggregation, explainable evaluation, and continuous learning from verified outcomes-can be applied to any environment requiring reliable data-driven decisions.
+The underlying architecture is domain-agnostic. Although football analytics serves as the research domain, the platform is designed around reusable engineering principles including data quality validation, entity resolution, incremental synchronization, evidence fusion, explainable evaluation, and continuous learning from verified outcomes.
+
+The long-term direction is incremental intelligence: systems that continuously synchronize heterogeneous data sources, reconcile evidence, and evolve their knowledge base through verified outcomes.
 
 ## What I Work On
 
@@ -28,7 +30,7 @@ Designing a modular decision intelligence platform that harvests, synchronizes, 
 
 ### Decision Intelligence Platform
 
-A modular decision intelligence platform that incrementally harvests, synchronizes, validates, and fuses data from multiple providers into a unified knowledge base for explainable evaluation, historical pattern recognition, evidence-based decision support, and continuous post-event learning.
+A modular decision intelligence platform that incrementally harvests, synchronizes, validates, and fuses multi-provider datasets into a unified knowledge base for explainable evaluation, evidence-driven reasoning, historical pattern recognition, and continuous post-event learning.
 
 The project demonstrates:
 
@@ -61,4 +63,4 @@ Repository: https://github.com/damiosy-ux/decision-intelligence-platform
 ## Positioning
 
 Decision Intelligence Systems Engineer  
-Data Engineering | Multi-Source Data Fusion | Explainable AI | Pattern Recognition
+Data Engineering | Multi-Source Data Fusion | Explainable AI
