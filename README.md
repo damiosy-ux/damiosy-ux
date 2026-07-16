@@ -1,12 +1,12 @@
 # Hi, I'm Damiosy
 
-I design and build intelligence systems that transform fragmented, multi-source datasets into structured, explainable, and continuously improving analytical workflows.
+I design and build decision intelligence systems that transform fragmented, multi-source datasets into structured, explainable, and continuously improving analytical workflows.
 
-My work focuses on data ingestion, incremental synchronization, provider alignment, evidence fusion, pattern recognition, and feedback-driven learning. Rather than relying on isolated data sources, I design data pipelines that normalize, reconcile, and fuse heterogeneous datasets into a unified evidence model for transparent and auditable decision support.
+My work focuses on data ingestion, incremental synchronization, provider alignment, evidence fusion, pattern recognition, and feedback-driven learning. Rather than relying on isolated data sources, I design data pipelines that normalize, reconcile, and fuse heterogeneous datasets into a unified knowledge base for transparent, auditable, and explainable decision support.
 
-The underlying architecture is domain-agnostic. Although football analytics serves as the research domain, the platform is designed around reusable engineering principles including data quality validation, entity resolution, incremental synchronization, evidence fusion, explainable evaluation, and continuous learning from verified outcomes.
+Although football analytics serves as the research domain, the underlying architecture is domain-agnostic. The platform is built around reusable engineering principles including data quality validation, entity resolution, incremental synchronization, evidence fusion, explainable evaluation, and continuous learning from verified outcomes.
 
-I am exploring incremental intelligence: systems that continuously synchronize heterogeneous data sources, reconcile evidence, and evolve their knowledge base through verified outcomes rather than periodic full rebuilds.
+I am particularly interested in incremental intelligence: systems that continuously synchronize heterogeneous data sources, reconcile evidence, and evolve their knowledge through verified outcomes rather than periodic full rebuilds.
 
 ## What I Work On
 
@@ -37,12 +37,13 @@ The project demonstrates:
 - data ingestion architecture
 - incremental synchronization patterns
 - multi-source data fusion
-- normalization workflows
+- dataset normalization and entity resolution
 - external rule configuration
-- explainable evaluation
-- synthetic sample data
-- Python test coverage
-- GitHub Actions CI
+- explainable evaluation pipelines
+- evidence fusion and pattern recognition
+- synthetic sample datasets
+- Python testing
+- GitHub Actions continuous integration
 
 Repository: https://github.com/damiosy-ux/decision-intelligence-platform
 
