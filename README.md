@@ -2,11 +2,11 @@
 
 I design and build decision intelligence systems that transform fragmented, multi-source datasets into structured, explainable, and continuously improving analytical workflows.
 
-My work focuses on data ingestion, incremental synchronization, provider alignment, evidence fusion, pattern recognition, and feedback-driven learning. Rather than relying on isolated data sources, I design data pipelines that normalize, reconcile, and fuse heterogeneous datasets into a unified knowledge base for transparent, auditable, and explainable decision support.
+My work focuses on data ingestion, incremental synchronization, provider alignment, evidence fusion, pattern recognition, and feedback-driven learning. Rather than relying on isolated data sources, I build data pipelines that normalize, reconcile, and fuse heterogeneous datasets into a unified knowledge base for transparent, auditable, and explainable decision support.
 
 Although football analytics serves as the research domain, the underlying architecture is domain-agnostic. The platform is built around reusable engineering principles including data quality validation, entity resolution, incremental synchronization, evidence fusion, explainable evaluation, and continuous learning from verified outcomes.
 
-I am particularly interested in incremental intelligence: systems that continuously synchronize heterogeneous data sources, reconcile evidence, and evolve their knowledge through verified outcomes rather than periodic full rebuilds.
+My long-term focus is incremental intelligence: systems that continuously synchronize heterogeneous data sources, reconcile evidence, and evolve their knowledge through verified outcomes rather than periodic full rebuilds.
 
 ## What I Work On
 
@@ -34,13 +34,13 @@ A modular decision intelligence platform that incrementally harvests, synchroniz
 
 The project demonstrates:
 
-- data ingestion architecture
+- multi-source data ingestion architecture
 - incremental synchronization patterns
 - multi-source data fusion
 - dataset normalization and entity resolution
 - external rule configuration
 - explainable evaluation pipelines
-- evidence fusion and pattern recognition
+- pattern recognition and evidence fusion
 - synthetic sample datasets
 - Python testing
 - GitHub Actions continuous integration
