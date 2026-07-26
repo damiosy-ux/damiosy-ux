@@ -47,7 +47,7 @@ The project demonstrates:
 
 Repository: https://github.com/damiosy-ux/decision-intelligence-platform
 
-Current public build: Python reference implementation, synthetic examples, tests, CI, architecture notes, roadmap, progress snapshot, and public-scope safeguards.
+Current public build as of 2026-07-26: Python reference implementation, synthetic examples, configurable rules, tests, CI, architecture notes, roadmap, progress snapshots, profile claim map, and public-scope safeguards.
 
 ## Technical Interests
 
