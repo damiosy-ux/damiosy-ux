@@ -26,6 +26,8 @@ My long-term focus is Incremental Intelligence: engineering systems that continu
 
 Designing a modular decision intelligence platform that harvests, synchronizes, and fuses heterogeneous datasets into a unified knowledge base for explainable pattern recognition, evidence-based evaluation, and continuous learning.
 
+Current research focus: protected draw-oriented decision intelligence as a case study in evidence harvesting, slice-based comparison, explainable diagnostics, and post-event learning. The public work shows the architecture and engineering discipline while keeping proprietary methodology private.
+
 ## Featured Project
 
 ### Decision Intelligence Platform
@@ -47,7 +49,7 @@ The project demonstrates:
 
 Repository: https://github.com/damiosy-ux/decision-intelligence-platform
 
-Current public build as of 2026-07-26: Python reference implementation, synthetic examples, configurable rules, tests, CI, architecture notes, roadmap, progress snapshots, profile claim map, and public-scope safeguards.
+Current public build as of 2026-07-28: Python reference implementation, synthetic examples, configurable rules, tests, CI, architecture notes, roadmap, progress snapshots, profile claim map, protected research-positioning notes, and public-scope safeguards.
 
 ## Technical Interests
 
