@@ -28,6 +28,12 @@ Designing a modular decision intelligence platform that harvests, synchronizes, 
 
 Current research focus: protected draw-oriented decision intelligence as a case study in evidence harvesting, slice-based comparison, explainable diagnostics, and post-event learning. The public work shows the architecture and engineering discipline while keeping proprietary methodology private.
 
+## Public Boundary
+
+My public repositories are intentionally portfolio-safe. They demonstrate architecture, data modeling, normalization, configurable evaluation, explainable diagnostics, tests, CI, and documentation using synthetic examples and generic rules.
+
+Private datasets, provider-specific workflows, operational automation, proprietary thresholds, scoring combinations, and deeper research methodology remain outside the public codebase.
+
 ## Featured Project
 
 ### Decision Intelligence Platform
@@ -49,7 +55,7 @@ The project demonstrates:
 
 Repository: https://github.com/damiosy-ux/decision-intelligence-platform
 
-Current public build as of 2026-07-28: Python reference implementation, synthetic examples, configurable rules, tests, CI, architecture notes, roadmap, progress snapshots, profile claim map, protected research-positioning notes, and public-scope safeguards.
+Current public build as of 2026-07-29: Python reference implementation, synthetic examples, configurable rules, tests, CI, architecture notes, roadmap, progress snapshots, profile claim map, protected research-positioning notes, and public-scope safeguards.
 
 ## Technical Interests
 
